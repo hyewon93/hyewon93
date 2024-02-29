@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kdam+Thmor+Pro&pause=1000&color=000000&random=false&width=435&lines=Welcome+to+Hyewon's+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hyewon-bae-615392197)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-EA4335?style=flat-square&logo=googlefit&logoColor=white)](https://hyewon93.github.io/hyewonb_portfolio/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-EA4335?style=flat-square&logo=googlefit&logoColor=white)](https://hyewonb.netlify.app/)
 
 <br><br>
 
